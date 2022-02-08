@@ -1,0 +1,13 @@
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.exe
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.deps.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.runtimeconfig.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.runtimeconfig.dev.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\bin\Debug\netcoreapp3.1\FindLargeNumber.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.AssemblyInfoInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.AssemblyInfo.cs
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\Methods\obj\Debug\netcoreapp3.1\FindLargeNumber.genruntimeconfig.cache

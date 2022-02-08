@@ -1,0 +1,14 @@
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.exe
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.deps.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.runtimeconfig.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.runtimeconfig.dev.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\bin\Debug\netcoreapp3.1\SumDigitsNumber.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.csproj.AssemblyReference.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.AssemblyInfoInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.AssemblyInfo.cs
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\SumDigitsNumber\obj\Debug\netcoreapp3.1\SumDigitsNumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.exe
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.deps.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.runtimeconfig.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.runtimeconfig.dev.json
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\bin\Debug\netcoreapp3.1\LargeTwoDigitCalc.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.csproj.AssemblyReference.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.AssemblyInfoInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.AssemblyInfo.cs
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.dll
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.pdb
+C:\Users\Abdulla Rahimli\Desktop\08.02.2022\LargeTwoDigitCalc\obj\Debug\netcoreapp3.1\LargeTwoDigitCalc.genruntimeconfig.cache
