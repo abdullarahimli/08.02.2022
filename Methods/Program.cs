@@ -24,7 +24,7 @@ namespace Methods
 
             if (a > b && a > c)
             {
-                Console.WriteLine($"En boyuk eded, arr{a}");
+                Console.WriteLine($"En boyuk eded, {a}");
             }
             else if (b > a && b > c)
             {

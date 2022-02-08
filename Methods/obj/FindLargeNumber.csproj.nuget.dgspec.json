@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdulla Rahimli\\Desktop\\08.02.2022\\Methods\\FindLargeNumber.csproj": {}
+    "C:\\Users\\Abdulla Rahimli\\Desktop\\Code Academy\\Programming 24.01.2022 -\\My Code Projects\\08.02.2022\\Methods\\FindLargeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdulla Rahimli\\Desktop\\08.02.2022\\Methods\\FindLargeNumber.csproj": {
+    "C:\\Users\\Abdulla Rahimli\\Desktop\\Code Academy\\Programming 24.01.2022 -\\My Code Projects\\08.02.2022\\Methods\\FindLargeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdulla Rahimli\\Desktop\\08.02.2022\\Methods\\FindLargeNumber.csproj",
+        "projectUniqueName": "C:\\Users\\Abdulla Rahimli\\Desktop\\Code Academy\\Programming 24.01.2022 -\\My Code Projects\\08.02.2022\\Methods\\FindLargeNumber.csproj",
         "projectName": "FindLargeNumber",
-        "projectPath": "C:\\Users\\Abdulla Rahimli\\Desktop\\08.02.2022\\Methods\\FindLargeNumber.csproj",
+        "projectPath": "C:\\Users\\Abdulla Rahimli\\Desktop\\Code Academy\\Programming 24.01.2022 -\\My Code Projects\\08.02.2022\\Methods\\FindLargeNumber.csproj",
         "packagesPath": "C:\\Users\\Abdulla Rahimli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdulla Rahimli\\Desktop\\08.02.2022\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\Abdulla Rahimli\\Desktop\\Code Academy\\Programming 24.01.2022 -\\My Code Projects\\08.02.2022\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdulla Rahimli\\AppData\\Roaming\\NuGet\\NuGet.Config",
